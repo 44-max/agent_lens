@@ -1,0 +1,2 @@
+language,summary,issues,severity
+Python,Simple function to add two numbers.,"[""Function name does not follow PEP 8 conventions (should be 'add', not 'add')."", 'Variable names do not indicate the purpose of a or b.', 'No error checking or handling for potential inputs.']",Low to Moderate
